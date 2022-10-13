@@ -38,4 +38,6 @@ sequence = np.array(text_to_sequence(text, ['japanese_cleaners']))[None, :]
 * [Model 3](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/Eb0WROtOsYBInTmQQZHf36IBSXmyVd4JiCF7OnQjOZkjGg?e=qbbsv4) ['japanese_accent_cleaners']
 
 
-Reference: [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
+## Reference:  
+1. [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
+2. [Pythonで学ぶ音声合成](https://r9y9.github.io/ttslearn/latest/notebooks/ch10_Recipe-Tacotron.html)
