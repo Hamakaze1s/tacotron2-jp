@@ -12,19 +12,19 @@
 File ./hparams.py line 30
 ### 1. 'japanese_cleaners'
 #### Before
-何かあったらいつでも話して下さい。学院のことじゃなく、私事に関することでも何でも
+もし映画を見るなら、その後はカフェでゆっくりする方がいいかもしれません
 #### After
-nanikaacltaraitsudemohanashItekudasai.gakuiNnokotojanaku,shijinikaNsurukotodemonanidemo.
+moshieegaomirunara,sonogowakafedeyuclkurisuruhoogaiikamoshiremaseN.
 ### 2. 'japanese_tokenization_cleaners'
 #### Before
-何かあったらいつでも話して下さい。学院のことじゃなく、私事に関することでも何でも
+もし映画を見るなら、その後はカフェでゆっくりする方がいいかもしれません
 #### After
-nani ka acl tara itsu demo hanashi te kudasai. gakuiN no koto ja naku, shiji nikaNsuru koto de mo naNdemo.
+moshi eiga o miru nara, sonogo wa kafe de yuclkuri suru hoo ga ii kamo shire mase N.
 ### 3. 'japanese_accent_cleaners'
 #### Before
-何かあったらいつでも話して下さい。学院のことじゃなく、私事に関することでも何でも
+もし映画を見るなら、その後はカフェでゆっくりする方がいいかもしれません
 #### After
-:na)nika a)cltara i)tsudemo ha(na)shIte ku(dasa)i.:ga(kuiNno ko(to)janaku,:shi)jini ka(Nsu)ru ko(to)demo na)nidemo.
+:mo)shi e(egao mi)runara,:so(nogowa ka)fede yu(clku)ri su(ru ho)oga i)ikamo shi(remase)N.
 
 ## Models
 Remember to change this line in ./inference.ipynb
